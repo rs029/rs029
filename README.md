@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Rishu,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=e4a4fb&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Rishu,+a+Quality+Analyst+💻;Passionate+about+coding+and+quality+of+product;Tech+Enthusiast+and+Problem+Finder;Bugs+Catcher+%26+Database+Expert;Always+testing,+exploring,+and+growing+🚀">
 </h1>
 
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as a **Quality Analyst**
 
-💬 You can ask me about **my journey in coding, software developmen and as an analyst so far.**
+💬 You can ask me about **my journey in coding, testing frameworks and as an analyst so far.**
 
 ⚡ Fun fact **GitHub was originally called Logical Awesome before it got its current name**
 
@@ -48,8 +48,9 @@
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,mysql,cypress,vscode" />
-    <img src="https://skillicons.dev/icons?i=selenium,npm,nodejs,mongodb,powershell,github,git,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,vscode" />
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,mongodb,powershell,github,git,discord" /><br>
 </div>
 
 <br/>
