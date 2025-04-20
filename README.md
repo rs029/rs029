@@ -48,8 +48,8 @@
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,python,tailwind" />
-    <img src="https://skillicons.dev/icons?i=selenium,nextjs,npm,nodejs,mongodb,github,git,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,mysql,cypress,vscode" />
+    <img src="https://skillicons.dev/icons?i=selenium,npm,nodejs,mongodb,powershell,github,git,discord" /><br>
 </div>
 
 <br/>
